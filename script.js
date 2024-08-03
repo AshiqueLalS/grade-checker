@@ -30,5 +30,5 @@ const findGrade=()=> {
         grade = "E";
     }
 
-    result.textContent = "Grade: "+grade+ "- Status:" +status;
+    result.textContent = "Grade: "+grade+ " - Status:" +status;
 } 
